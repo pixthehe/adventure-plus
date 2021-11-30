@@ -33,7 +33,7 @@ int main(void)
 
             ClearBackground(RAYWHITE);
 
-            DrawText("Gadsame Here!", 190, 200, 20, LIGHTGRAY);
+            DrawText("Game Here!", 190, 200, 20, LIGHTGRAY);
 
         EndDrawing();
 
